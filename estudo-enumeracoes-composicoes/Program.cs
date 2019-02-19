@@ -10,6 +10,7 @@ namespace estudo_enumeracoes_composicoes
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
