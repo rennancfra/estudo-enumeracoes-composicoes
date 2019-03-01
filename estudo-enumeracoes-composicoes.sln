@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estudo-enumeracoes-composicoes", "estudo-enumeracoes-composicoes\estudo-enumeracoes-composicoes.csproj", "{878F9DC5-CBEB-4A1D-8445-E1C533438487}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projeto-post-comentario", "projeto-post-comentario\projeto-post-comentario.csproj", "{426E515A-A24A-4243-9069-77DD90E76526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio-enumeracao-composicao", "exercicio-enumeracao-composicao\exercicio-enumeracao-composicao.csproj", "{7D14E789-81E3-43CA-B0F7-B191877BBFB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{878F9DC5-CBEB-4A1D-8445-E1C533438487}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{878F9DC5-CBEB-4A1D-8445-E1C533438487}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{878F9DC5-CBEB-4A1D-8445-E1C533438487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426E515A-A24A-4243-9069-77DD90E76526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426E515A-A24A-4243-9069-77DD90E76526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426E515A-A24A-4243-9069-77DD90E76526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426E515A-A24A-4243-9069-77DD90E76526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D14E789-81E3-43CA-B0F7-B191877BBFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D14E789-81E3-43CA-B0F7-B191877BBFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D14E789-81E3-43CA-B0F7-B191877BBFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D14E789-81E3-43CA-B0F7-B191877BBFB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
